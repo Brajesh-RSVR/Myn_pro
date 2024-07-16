@@ -1,0 +1,17 @@
+<svg width="164" height="116" viewBox="0 0 164 116" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="52" y="13" width="111" height="94" rx="4" fill="#BA9AFF" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="50" y="13" width="109" height="94" rx="4" fill="#DDCDFF" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="56" y="19" width="97" height="82" rx="2" fill="white" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect width="162" height="8" rx="4" transform="matrix(1 0 0 -1 1 115)" fill="#DDCDFF" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M66 28H144" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M66 36H103" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M66 44H85" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M66 52H111" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M133.474 66.5022C133.627 65.9171 133.096 65.3685 132.499 65.5269L121.516 68.4385C120.919 68.5968 120.724 69.3415 121.155 69.7752L123.176 71.8118L110.104 84.9813L98.3955 73.2978C98.3952 73.2975 98.3949 73.2972 98.3945 73.2969C97.0386 71.9319 94.8393 71.9322 93.4837 73.2978L76.7322 90.1736C76.4226 90.4854 76.4226 90.9895 76.7322 91.3014L79.6736 94.2646C79.9852 94.5785 80.4919 94.5785 80.8035 94.2646L95.9403 79.0156L107.649 90.6991C107.649 90.6994 107.649 90.6998 107.65 90.7001C109.006 92.065 111.205 92.0647 112.56 90.6991L127.243 75.908L129.247 77.9278C129.685 78.3686 130.428 78.1607 130.584 77.5664L133.474 66.5022Z" fill="#B8F592" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="27" y="1" width="67.4667" height="46" rx="4" fill="#EEEAFF" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="27" y="10.2" width="67.4667" height="8.43333" fill="#BA9AFF" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="31.6" y="25.5333" width="26.8333" height="8.43333" rx="2" fill="#FCB685" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M31.6 39.3333H58.4333" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect width="17.6333" height="8.43333" rx="2" transform="matrix(-1 0 0 1 87.5667 25.5333)" fill="#FCB685" stroke="#2C0F68" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+  

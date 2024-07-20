@@ -1024,6 +1024,38 @@ body {
     display: block;
   }
 
+  .sm\:w-\[214px\] {
+    width: 214px;
+  }
+
+  .sm\:flex-row {
+    flex-direction: row;
+  }
+
+  .sm\:flex-wrap {
+    flex-wrap: wrap;
+  }
+
+  .sm\:items-center {
+    align-items: center;
+  }
+
+  .sm\:justify-center {
+    justify-content: center;
+  }
+
+  .sm\:justify-between {
+    justify-content: space-between;
+  }
+
+  .sm\:gap-5 {
+    gap: 1.25rem;
+  }
+
+  .sm\:p-0 {
+    padding: 0px;
+  }
+
   .sm\:px-3 {
     padding-left: 0.75rem;
     padding-right: 0.75rem;
@@ -1100,6 +1132,10 @@ body {
     width: 622px;
   }
 
+  .lg\:w-\[214px\] {
+    width: 214px;
+  }
+
   .lg\:flex-row {
     flex-direction: row;
   }
@@ -1108,8 +1144,20 @@ body {
     flex-direction: row-reverse;
   }
 
+  .lg\:flex-wrap {
+    flex-wrap: wrap;
+  }
+
   .lg\:items-center {
     align-items: center;
+  }
+
+  .lg\:justify-center {
+    justify-content: center;
+  }
+
+  .lg\:justify-between {
+    justify-content: space-between;
   }
 
   .lg\:justify-around {
@@ -1124,6 +1172,10 @@ body {
     gap: 60px;
   }
 
+  .lg\:gap-5 {
+    gap: 1.25rem;
+  }
+
   .lg\:space-x-4 > :not([hidden]) ~ :not([hidden]) {
     --tw-space-x-reverse: 0;
     margin-right: calc(1rem * var(--tw-space-x-reverse));
@@ -1132,6 +1184,10 @@ body {
 
   .lg\:rounded-br-\[80\%\] {
     border-bottom-right-radius: 80%;
+  }
+
+  .lg\:p-0 {
+    padding: 0px;
   }
 
   .lg\:px-8 {

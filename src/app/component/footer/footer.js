@@ -64,11 +64,37 @@ function FooterSection() {
         ))}
         <div className="flex flex-col">
           <h3 className="text-base font-bold">App Download</h3>
-          <div className="flex gap-2 items-center"></div>
+          <div className="flex gap-2 items-center">
+            <Link href="">
+              <Image alt="" src={images.googleApp} />
+            </Link>
+            <Link href="">
+              <Image alt="" src={images.playStore} />
+            </Link>
+          </div>
         </div>
         <div className="flex flex-col">
           <h3 className="text-base font-bold">Socials</h3>
-          <div className="flex gap-2 items-center"></div>
+          <div className="flex gap-2 items-center">
+            <Link href="">
+              <Image alt="" src={images.linkedinIcon} />
+            </Link>
+            <Link href="">
+              <Image alt="" src={images.instagramIcon} />
+            </Link>
+            <Link href="">
+              <Image alt="" src={images.YouTube} />
+            </Link>
+            <Link href="">
+              <Image alt="" src={images.faceBook} />
+            </Link>
+            <Link href="">
+              <Image alt="" src={images.twitterIcons} />
+            </Link>
+            <Link href="">
+              <Image alt="" src={images.whatsApp} />
+            </Link>
+          </div>
         </div>
       </div>
       <div className="flex flex-col gap-5 lg:gap-5 lg:items-center lg:flex-row lg:justify-center w-full">

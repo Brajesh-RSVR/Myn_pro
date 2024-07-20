@@ -3,6 +3,7 @@ import { images } from "../../src/app/assets";
 import Image from "next/image";
 import Header from "./component/header";
 import FooterSection from "./component/footer/footer";
+import ProfileCard from "./component/profileCard/profileCard";
 
 export default function Home() {
   return (
@@ -152,16 +153,25 @@ export default function Home() {
               Hear from Contractors Part of the Myn Talent Pools
             </p>
           </div>
-          <div className="py-4 flex flex-col lg:flex-row justify-around items-center gap-6">
-            <div className="max-w-[420px] min-w-[300px] w-fit bg-white p-8">
-              dummy card already have
-            </div>
-            <div className="max-w-[420px] min-w-[300px] w-fit bg-white p-8">
-              dummy card already have
-            </div>
-            <div className="max-w-[420px] min-w-[300px] w-fit bg-white p-8">
-              dummy card already have
-            </div>
+          <div className="py-4 flex flex-wrap flex-row justify-center items-center gap-6">
+            <ProfileCard
+              name="Jane Do"
+              title="Service Analyst"
+              quote="I love having the opportunity to take on new challenges"
+              imageUrl={images.sampleImgOne}
+            />
+            <ProfileCard
+              name="Jane Do"
+              title="Service Analyst"
+              quote="I love having the opportunity to take on new challenges"
+              imageUrl={images.sampleImgOne}
+            />
+            <ProfileCard
+              name="Jane Do"
+              title="Service Analyst"
+              quote="I love having the opportunity to take on new challenges"
+              imageUrl={images.sampleImgOne}
+            />
           </div>
         </div>
       </main>

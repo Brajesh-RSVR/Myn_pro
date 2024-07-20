@@ -2,6 +2,7 @@ import TwoLayoutSection from "./component";
 import { images } from "../../src/app/assets";
 import Image from "next/image";
 import Header from "./component/header";
+import FooterSection from "./component/footer/footer";
 
 export default function Home() {
   return (
@@ -164,6 +165,7 @@ export default function Home() {
           </div>
         </div>
       </main>
+      <FooterSection />
     </>
   );
 }

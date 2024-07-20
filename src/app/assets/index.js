@@ -3,4 +3,5 @@ export const images = {
   checkBadge: require("./images/check-badge.png"),
   mobileImage: require("./images/mobile_2.png"),
   qrCode: require("./images/QR-Code.png"),
+  mynLogo: require("./images/Myn_Logos.png"),
 };

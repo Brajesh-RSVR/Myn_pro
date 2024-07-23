@@ -765,6 +765,18 @@ select {
     max-width: 1216px;
   }
 }
+@media (min-width: 1280px) {
+
+  .container {
+    max-width: 1280px;
+  }
+}
+@media (min-width: 1536px) {
+
+  .container {
+    max-width: 1536px;
+  }
+}
 .fixed {
   position: fixed;
 }
@@ -1231,6 +1243,10 @@ select {
 .text-base {
   font-size: 1rem;
 }
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
 .text-sm {
   font-size: 0.8rem;
 }
@@ -1664,6 +1680,28 @@ body {
 
   .lg\:leading-\[52px\] {
     line-height: 52px;
+  }
+}
+
+@media (min-width: 1280px) {
+
+  .xl\:flex-row {
+    flex-direction: row;
+  }
+
+  .xl\:bg-cover {
+    background-size: cover;
+  }
+
+  .xl\:bg-center {
+    background-position: center;
+  }
+}
+
+@media (min-width: 1536px) {
+
+  .\32xl\:bg-right {
+    background-position: right;
   }
 }
 

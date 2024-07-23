@@ -2,6 +2,7 @@
 
 const defaultTheme = require("tailwindcss/defaultTheme");
 const colors = require("tailwindcss/colors");
+
 module.exports = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
@@ -19,29 +20,24 @@ module.exports = {
     "bg-indigo-600",
     "bg-indigo-500",
     "bg-indigo-100",
-
     "bg-primary-900",
     "bg-primary-600",
-
     "bg-myn-primary-600",
     "bg-myn-primary-500",
     "bg-myn-primary-100",
     "bg-pink-600",
     "bg-pink-500",
     "bg-pink-100",
-
     "border-green-500",
     "border-indigo-500",
     "border-myn-primary-500",
     "border-pink-500",
     "border-red-500",
-
     "ring-green-500",
     "ring-indigo-500",
     "ring-myn-primary-500",
     "ring-pink-500",
     "ring-red-500",
-
     "text-green-600",
     "text-indigo-600",
     "text-indigo-500",
@@ -49,13 +45,11 @@ module.exports = {
     "text-myn-primary-500",
     "text-pink-600",
     "text-red-600",
-
     "text-green-800",
     "text-indigo-800",
     "text-myn-primary-800",
     "text-pink-800",
     "text-red-800",
-
     "text-green-300",
     "text-indigo-300",
     "text-myn-primary-300",
@@ -65,26 +59,26 @@ module.exports = {
   darkMode: "class",
   mode: "jit",
   theme: {
-    backdropBlur: {
-      xs: "2px",
-    },
-    screens: {
-      sm: "703px",
-      md: "937px",
-      lg: "1216px",
-    },
-    fontSize: {
-      sm: "0.8rem",
-      base: "1rem",
-      xl: "1.25rem",
-      "2xl": "1.563rem",
-      "3xl": "1.953rem",
-      "4xl": "2.441rem",
-      "5xl": "3.052rem",
-      "6xl": "3.2988rem",
-      "7xl": "3.75rem",
-    },
     extend: {
+      backdropBlur: {
+        xs: "2px",
+      },
+      screens: {
+        sm: "703px",
+        md: "937px",
+        lg: "1216px",
+      },
+      fontSize: {
+        sm: "0.8rem",
+        base: "1rem",
+        xl: "1.25rem",
+        "2xl": "1.563rem",
+        "3xl": "1.953rem",
+        "4xl": "2.441rem",
+        "5xl": "3.052rem",
+        "6xl": "3.2988rem",
+        "7xl": "3.75rem",
+      },
       animation: {
         huerotate: "hue 4s ease-in-out infinite",
         wiggle: "wiggle 1s ease-in-out infinite",

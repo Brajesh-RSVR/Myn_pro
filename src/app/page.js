@@ -3,6 +3,8 @@ import { images } from "../../src/app/assets";
 import Image from "next/image";
 import Header from "./component/header";
 import FooterSection from "./component/footer/footer";
+import ProfileCard from "./component/profileCard/profileCard";
+import Testimonial from "./component/testimonial/testimonial";
 
 export default function Home() {
   return (
@@ -140,7 +142,7 @@ export default function Home() {
           </TwoLayoutSection>
           <div className="left-0 top-0 z-[-1] absolute w-full bg-white h-full  rounded-br-[250px] lg:rounded-br-[80%]" />
         </div>
-        <div className="bg-gradient-to-r from-cyan-500 to-blue-500">
+        <div className="relative bg-gradient-to-r from-cyan-500 to-blue-500">
           <div className="flex flex-col px-7 justify-center items-center">
             <h2 className="text-[42px] lg:text-[52px] text-white">
               Boundaries are dismantled
@@ -152,16 +154,39 @@ export default function Home() {
               Hear from Contractors Part of the Myn Talent Pools
             </p>
           </div>
-          <div className="py-4 flex flex-col lg:flex-row justify-around items-center gap-6">
-            <div className="max-w-[420px] min-w-[300px] w-fit bg-white p-8">
-              dummy card already have
-            </div>
-            <div className="max-w-[420px] min-w-[300px] w-fit bg-white p-8">
-              dummy card already have
-            </div>
-            <div className="max-w-[420px] min-w-[300px] w-fit bg-white p-8">
-              dummy card already have
-            </div>
+          <div className="py-4 flex flex-wrap flex-row justify-center items-center gap-6">
+            <ProfileCard
+              name="Jane Do"
+              title="Service Analyst"
+              quote="I love having the opportunity to take on new challenges"
+              imageUrl={images.sampleImgOne}
+            />
+            <ProfileCard
+              name="Jane Do"
+              title="Service Analyst"
+              quote="I love having the opportunity to take on new challenges"
+              imageUrl={images.sampleImgOne}
+            />
+            <ProfileCard
+              name="Jane Do"
+              title="Service Analyst"
+              quote="I love having the opportunity to take on new challenges"
+              imageUrl={images.sampleImgOne}
+            />
+          </div>
+          <div className="py-4 flex flex-wrap flex-row justify-center items-center gap-6">
+            <Testimonial
+              name="Public Sector Resourcing Framework"
+              quote="Myn partnered with AMS through the PSR program, focusing on candidate sourcing and talent pooling for the Central Government Procurement Framework."
+              title="PSR AMS"
+              className="bg-[url(../../src/app/assets/images/tc1.png)] bg-contain bg-top md:bg-right"
+            />
+            <Testimonial
+              name="Public Sector Resourcing Framework"
+              quote="Myn partnered with AMS through the PSR program, focusing on candidate sourcing and talent pooling for the Central Government Procurement Framework."
+              title="PSR AMS"
+              className="bg-[url(../../src/app/assets/images/tc2.png)] bg-contain bg-top md:bg-right"
+            />
           </div>
         </div>
       </main>

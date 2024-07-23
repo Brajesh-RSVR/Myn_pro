@@ -3,11 +3,11 @@ import React from "react";
 
 const Testimonial = ({ name, title, quote, className = "" }) => {
   return (
-    <div className="w-[337px] h-[684px] md:h-auto md:w-[864px] xl:flex-row relative flex flex-col md:mb-3  md:flex-row lg:flex-row ">
+    <div className="w-full min-w-[280px] max-w-[337px] md:max-w-[864px] md:min-w-[750px] md:w-full md:h-auto xl:flex-row relative flex flex-col md:mb-3 md:flex-row lg:flex-row ">
       <div
-        className={`w-[337px] md:w-[400px] h-[360px] xl:bg-cover xl:bg-center  2xl:bg-right flex  rounded-2xl bg-cover bg-center bg-no-repeat md:bg-cover md:bg-center ${className}`}
+        className={`w-full min-w-[280px] max-w-[337px] md:max-w-[400px] md:min-w-[337px] md:w-full h-[360px] xl:bg-cover xl:bg-center  2xl:bg-right flex  rounded-2xl bg-cover bg-center bg-no-repeat md:bg-cover md:bg-center ${className}`}
       />
-      <div className="w-[337px] h-[360px] md:w-[500px] mt-[-24px] flex shrink flex-col justify-center gap-5 rounded-2xl bg-white px-8 py-6 shadow-lg sm:mt-0 bottom-0 absolute md:right-0 md:gap-3 md:p-5">
+      <div className="w-full h-full md:w-[500px] mt-[-24px] flex shrink flex-col justify-center gap-5 rounded-2xl bg-white px-8 py-6 shadow-lg sm:mt-0 bottom-0 md:absolute md:right-0 md:gap-3 md:p-5">
         <div className="flex flex-col">
           <h3 className="font-InterBold font-bold text-[24px] leading-[36px] text-dark-900">
             {name}

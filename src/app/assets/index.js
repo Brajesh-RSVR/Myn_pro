@@ -4,4 +4,13 @@ export const images = {
   mobileImage: require("./images/mobile_2.png"),
   qrCode: require("./images/QR-Code.png"),
   mynLogo: require("./images/Myn_Logos.png"),
+  sampleImgOne: require("./images/sample_images_one.png"),
+  whatsApp: require("./images/whatsapp.png"),
+  linkedinIcon: require("./images/LinkdIn.png"),
+  playStore: require("./images/play-store.png"),
+  YouTube: require("./images/Youtube.png"),
+  faceBook: require("./images/facebook.png"),
+  twitterIcons: require("./images/twitter.png"),
+  googleApp: require("./images/google-apps.png"),
+  instagramIcon: require("./images/instagram.png"),
 };

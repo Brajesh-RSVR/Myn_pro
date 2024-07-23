@@ -1,4 +1,3 @@
-// components/Header.js
 "use client";
 
 import Image from "next/image";
@@ -118,7 +117,11 @@ const Header = () => {
               <div key={index} className="relative">
                 <button
                   onClick={() => toggleSubMenu(index)}
-                  className="text-gray-700 hover:text-gray-900 block px-3 py-2 rounded-md text-base font-medium"
+                  className={`block px-3 py-2 rounded-md text-base font-medium w-full text-left ${
+                    openSubMenu === index
+                      ? "bg-[#0C0429] text-white"
+                      : "text-gray-700 hover:text-gray-900"
+                  }`}
                 >
                   {item.title}
                 </button>

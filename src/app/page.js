@@ -174,7 +174,7 @@ export default function Home() {
               imageUrl={images.sampleImgOne}
             />
           </div>
-          <div className="py-4 flex flex-wrap flex-row justify-center items-center gap-6">
+          <div className="py-4 flex flex-col md:flex-row lg:px-4 justify-center items-center gap-6">
             <Testimonial
               name="Public Sector Resourcing Framework"
               quote="Myn partnered with AMS through the PSR program, focusing on candidate sourcing and talent pooling for the Central Government Procurement Framework."

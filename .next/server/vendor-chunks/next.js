@@ -379,7 +379,18 @@ eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));
   \***********************************************************************************************************************************************************/
 /***/ ((module) => {
 
-eval("// Exports\nmodule.exports = {\n\t\"style\": {\"fontFamily\":\"'__Inter_aaf875', '__Inter_Fallback_aaf875'\",\"fontStyle\":\"normal\"},\n\t\"className\": \"__className_aaf875\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC9mb250L2dvb2dsZS90YXJnZXQuY3NzP3tcInBhdGhcIjpcInNyYy9hcHAvbGF5b3V0LmpzXCIsXCJpbXBvcnRcIjpcIkludGVyXCIsXCJhcmd1bWVudHNcIjpbe1wic3Vic2V0c1wiOltcImxhdGluXCJdfV0sXCJ2YXJpYWJsZU5hbWVcIjpcImludGVyXCJ9IiwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQSxXQUFXLGdGQUFnRjtBQUMzRjtBQUNBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vbXluX3Byby8uL25vZGVfbW9kdWxlcy9uZXh0L2ZvbnQvZ29vZ2xlL3RhcmdldC5jc3M/ODI1NiJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBFeHBvcnRzXG5tb2R1bGUuZXhwb3J0cyA9IHtcblx0XCJzdHlsZVwiOiB7XCJmb250RmFtaWx5XCI6XCInX19JbnRlcl9hYWY4NzUnLCAnX19JbnRlcl9GYWxsYmFja19hYWY4NzUnXCIsXCJmb250U3R5bGVcIjpcIm5vcm1hbFwifSxcblx0XCJjbGFzc05hbWVcIjogXCJfX2NsYXNzTmFtZV9hYWY4NzVcIlxufTtcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}\n");
+eval("// Exports\nmodule.exports = {\n\t\"style\": {\"fontFamily\":\"'__Inter_36bd41', '__Inter_Fallback_36bd41'\",\"fontStyle\":\"normal\"},\n\t\"className\": \"__className_36bd41\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC9mb250L2dvb2dsZS90YXJnZXQuY3NzP3tcInBhdGhcIjpcInNyYy9hcHAvbGF5b3V0LmpzXCIsXCJpbXBvcnRcIjpcIkludGVyXCIsXCJhcmd1bWVudHNcIjpbe1wic3Vic2V0c1wiOltcImxhdGluXCJdfV0sXCJ2YXJpYWJsZU5hbWVcIjpcImludGVyXCJ9IiwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQSxXQUFXLGdGQUFnRjtBQUMzRjtBQUNBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vbXluX3Byby8uL25vZGVfbW9kdWxlcy9uZXh0L2ZvbnQvZ29vZ2xlL3RhcmdldC5jc3M/ODI1NiJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBFeHBvcnRzXG5tb2R1bGUuZXhwb3J0cyA9IHtcblx0XCJzdHlsZVwiOiB7XCJmb250RmFtaWx5XCI6XCInX19JbnRlcl8zNmJkNDEnLCAnX19JbnRlcl9GYWxsYmFja18zNmJkNDEnXCIsXCJmb250U3R5bGVcIjpcIm5vcm1hbFwifSxcblx0XCJjbGFzc05hbWVcIjogXCJfX2NsYXNzTmFtZV8zNmJkNDFcIlxufTtcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}\n");
+
+/***/ }),
+
+/***/ "(ssr)/./node_modules/next/dist/api/link.js":
+/*!********************************************!*\
+  !*** ./node_modules/next/dist/api/link.js ***!
+  \********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* reexport default from dynamic */ _client_link__WEBPACK_IMPORTED_MODULE_0___default.a)\n/* harmony export */ });\n/* harmony import */ var _client_link__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../client/link */ \"(ssr)/./node_modules/next/dist/client/link.js\");\n/* harmony import */ var _client_link__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_client_link__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};\n/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _client_link__WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== \"default\") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _client_link__WEBPACK_IMPORTED_MODULE_0__[__WEBPACK_IMPORT_KEY__]\n/* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);\n\n\n\n//# sourceMappingURL=link.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2FwaS9saW5rLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7OztBQUF5QztBQUNWOztBQUUvQiIsInNvdXJjZXMiOlsid2VicGFjazovL215bl9wcm8vLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2FwaS9saW5rLmpzPzY1OWMiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHsgZGVmYXVsdCB9IGZyb20gXCIuLi9jbGllbnQvbGlua1wiO1xuZXhwb3J0ICogZnJvbSBcIi4uL2NsaWVudC9saW5rXCI7XG5cbi8vIyBzb3VyY2VNYXBwaW5nVVJMPWxpbmsuanMubWFwIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/api/link.js\n");
 
 /***/ }),
 
@@ -556,6 +567,17 @@ eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));
 
 "use strict";
 eval("/** @internal */ \nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));\n0 && (0);\nfunction _export(target, all) {\n    for(var name in all)Object.defineProperty(target, name, {\n        enumerable: true,\n        get: all[name]\n    });\n}\n_export(exports, {\n    ReadonlyURLSearchParams: function() {\n        return ReadonlyURLSearchParams;\n    },\n    RedirectType: function() {\n        return _redirect.RedirectType;\n    },\n    notFound: function() {\n        return _notfound.notFound;\n    },\n    permanentRedirect: function() {\n        return _redirect.permanentRedirect;\n    },\n    redirect: function() {\n        return _redirect.redirect;\n    }\n});\nconst _redirect = __webpack_require__(/*! ./redirect */ \"(ssr)/./node_modules/next/dist/client/components/redirect.js\");\nconst _notfound = __webpack_require__(/*! ./not-found */ \"(ssr)/./node_modules/next/dist/client/components/not-found.js\");\nclass ReadonlyURLSearchParamsError extends Error {\n    constructor(){\n        super(\"Method unavailable on `ReadonlyURLSearchParams`. Read more: https://nextjs.org/docs/app/api-reference/functions/use-search-params#updating-searchparams\");\n    }\n}\nclass ReadonlyURLSearchParams extends URLSearchParams {\n    /** @deprecated Method unavailable on `ReadonlyURLSearchParams`. Read more: https://nextjs.org/docs/app/api-reference/functions/use-search-params#updating-searchparams */ append() {\n        throw new ReadonlyURLSearchParamsError();\n    }\n    /** @deprecated Method unavailable on `ReadonlyURLSearchParams`. Read more: https://nextjs.org/docs/app/api-reference/functions/use-search-params#updating-searchparams */ delete() {\n        throw new ReadonlyURLSearchParamsError();\n    }\n    /** @deprecated Method unavailable on `ReadonlyURLSearchParams`. Read more: https://nextjs.org/docs/app/api-reference/functions/use-search-params#updating-searchparams */ set() {\n        throw new ReadonlyURLSearchParamsError();\n    }\n    /** @deprecated Method unavailable on `ReadonlyURLSearchParams`. Read more: https://nextjs.org/docs/app/api-reference/functions/use-search-params#updating-searchparams */ sort() {\n        throw new ReadonlyURLSearchParamsError();\n    }\n}\nif ((typeof exports.default === \"function\" || typeof exports.default === \"object\" && exports.default !== null) && typeof exports.default.__esModule === \"undefined\") {\n    Object.defineProperty(exports.default, \"__esModule\", {\n        value: true\n    });\n    Object.assign(exports.default, exports);\n    module.exports = exports.default;\n} //# sourceMappingURL=navigation.react-server.js.map\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2NsaWVudC9jb21wb25lbnRzL25hdmlnYXRpb24ucmVhY3Qtc2VydmVyLmpzIiwibWFwcGluZ3MiOiJBQUFBLGNBQWM7Ozs7Ozs7Ozs7OztJQThCTEEseUJBQXVCO2VBQXZCQTs7SUFGNkJDLGNBQVk7ZUFBWkEsVUFBQUEsWUFBWTs7SUFDekNDLFVBQVE7ZUFBUkEsVUFBQUEsUUFBUTs7SUFERUMsbUJBQWlCO2VBQWpCQSxVQUFBQSxpQkFBaUI7O0lBQTNCQyxVQUFRO2VBQVJBLFVBQUFBLFFBQVE7OztzQ0FBeUM7c0NBQ2pDO0FBNUJ6QixNQUFNQyxxQ0FBcUNDO0lBQ3pDQyxhQUFjO1FBQ1osS0FBSyxDQUNIO0lBRUo7QUFDRjtBQUVBLE1BQU1QLGdDQUFnQ1E7SUFDcEMsd0tBQXdLLEdBQ3hLQyxTQUFTO1FBQ1AsTUFBTSxJQUFJSjtJQUNaO0lBQ0Esd0tBQXdLLEdBQ3hLSyxTQUFTO1FBQ1AsTUFBTSxJQUFJTDtJQUNaO0lBQ0Esd0tBQXdLLEdBQ3hLTSxNQUFNO1FBQ0osTUFBTSxJQUFJTjtJQUNaO0lBQ0Esd0tBQXdLLEdBQ3hLTyxPQUFPO1FBQ0wsTUFBTSxJQUFJUDtJQUNaO0FBQ0YiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9teW5fcHJvLy4uLy4uL3NyYy9jbGllbnQvY29tcG9uZW50cy9uYXZpZ2F0aW9uLnJlYWN0LXNlcnZlci50cz82YjU2Il0sIm5hbWVzIjpbIlJlYWRvbmx5VVJMU2VhcmNoUGFyYW1zIiwiUmVkaXJlY3RUeXBlIiwibm90Rm91bmQiLCJwZXJtYW5lbnRSZWRpcmVjdCIsInJlZGlyZWN0IiwiUmVhZG9ubHlVUkxTZWFyY2hQYXJhbXNFcnJvciIsIkVycm9yIiwiY29uc3RydWN0b3IiLCJVUkxTZWFyY2hQYXJhbXMiLCJhcHBlbmQiLCJkZWxldGUiLCJzZXQiLCJzb3J0Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/client/components/navigation.react-server.js\n");
+
+/***/ }),
+
+/***/ "(ssr)/./node_modules/next/dist/client/components/noop-head.js":
+/*!***************************************************************!*\
+  !*** ./node_modules/next/dist/client/components/noop-head.js ***!
+  \***************************************************************/
+/***/ ((module, exports) => {
+
+"use strict";
+eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));\nObject.defineProperty(exports, \"default\", ({\n    enumerable: true,\n    get: function() {\n        return NoopHead;\n    }\n}));\nfunction NoopHead() {\n    return null;\n}\nif ((typeof exports.default === \"function\" || typeof exports.default === \"object\" && exports.default !== null) && typeof exports.default.__esModule === \"undefined\") {\n    Object.defineProperty(exports.default, \"__esModule\", {\n        value: true\n    });\n    Object.assign(exports.default, exports);\n    module.exports = exports.default;\n} //# sourceMappingURL=noop-head.js.map\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2NsaWVudC9jb21wb25lbnRzL25vb3AtaGVhZC5qcyIsIm1hcHBpbmdzIjoiOzs7OzJDQUFBOzs7ZUFBd0JBOzs7QUFBVCxTQUFTQTtJQUN0QixPQUFPO0FBQ1QiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9teW5fcHJvLy4uLy4uL3NyYy9jbGllbnQvY29tcG9uZW50cy9ub29wLWhlYWQudHN4Pzc0ZjAiXSwibmFtZXMiOlsiTm9vcEhlYWQiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/client/components/noop-head.js\n");
 
 /***/ }),
 
@@ -1963,6 +1985,17 @@ eval("\nmodule.exports = __webpack_require__(/*! ../../module.compiled */ \"(ssr
 
 /***/ }),
 
+/***/ "(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js":
+/*!***********************************************************************************************************!*\
+  !*** ./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js ***!
+  \***********************************************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("\nmodule.exports = __webpack_require__(/*! ../../module.compiled */ \"(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/module.compiled.js?e149\").vendored[\"react-ssr\"].ReactJsxDevRuntime;\n\n//# sourceMappingURL=react-jsx-dev-runtime.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L3NlcnZlci9mdXR1cmUvcm91dGUtbW9kdWxlcy9hcHAtcGFnZS92ZW5kb3JlZC9zc3IvcmVhY3QtanN4LWRldi1ydW50aW1lLmpzIiwibWFwcGluZ3MiOiJBQUFhO0FBQ2IseU1BQTBGOztBQUUxRiIsInNvdXJjZXMiOlsid2VicGFjazovL215bl9wcm8vLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L3NlcnZlci9mdXR1cmUvcm91dGUtbW9kdWxlcy9hcHAtcGFnZS92ZW5kb3JlZC9zc3IvcmVhY3QtanN4LWRldi1ydW50aW1lLmpzPzM5ZWQiXSwic291cmNlc0NvbnRlbnQiOlsiXCJ1c2Ugc3RyaWN0XCI7XG5tb2R1bGUuZXhwb3J0cyA9IHJlcXVpcmUoXCIuLi8uLi9tb2R1bGUuY29tcGlsZWRcIikudmVuZG9yZWRbXCJyZWFjdC1zc3JcIl0uUmVhY3RKc3hEZXZSdW50aW1lO1xuXG4vLyMgc291cmNlTWFwcGluZ1VSTD1yZWFjdC1qc3gtZGV2LXJ1bnRpbWUuanMubWFwIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js\n");
+
+/***/ }),
+
 /***/ "(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react-jsx-runtime.js":
 /*!*******************************************************************************************************!*\
   !*** ./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react-jsx-runtime.js ***!
@@ -2315,17 +2348,6 @@ eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));
 
 /***/ }),
 
-/***/ "(rsc)/./node_modules/next/dist/api/link.js":
-/*!********************************************!*\
-  !*** ./node_modules/next/dist/api/link.js ***!
-  \********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* reexport default from dynamic */ _client_link__WEBPACK_IMPORTED_MODULE_0___default.a)\n/* harmony export */ });\n/* harmony import */ var _client_link__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../client/link */ \"(rsc)/./node_modules/next/dist/client/link.js\");\n/* harmony import */ var _client_link__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_client_link__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};\n/* harmony reexport (unknown) */ for(const __WEBPACK_IMPORT_KEY__ in _client_link__WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== \"default\") __WEBPACK_REEXPORT_OBJECT__[__WEBPACK_IMPORT_KEY__] = () => _client_link__WEBPACK_IMPORTED_MODULE_0__[__WEBPACK_IMPORT_KEY__]\n/* harmony reexport (unknown) */ __webpack_require__.d(__webpack_exports__, __WEBPACK_REEXPORT_OBJECT__);\n\n\n\n//# sourceMappingURL=link.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2FwaS9saW5rLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7OztBQUF5QztBQUNWOztBQUUvQiIsInNvdXJjZXMiOlsid2VicGFjazovL215bl9wcm8vLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2FwaS9saW5rLmpzP2M5YTgiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHsgZGVmYXVsdCB9IGZyb20gXCIuLi9jbGllbnQvbGlua1wiO1xuZXhwb3J0ICogZnJvbSBcIi4uL2NsaWVudC9saW5rXCI7XG5cbi8vIyBzb3VyY2VNYXBwaW5nVVJMPWxpbmsuanMubWFwIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next/dist/api/link.js\n");
-
-/***/ }),
-
 /***/ "(rsc)/./node_modules/next/dist/build/output/log.js":
 /*!****************************************************!*\
   !*** ./node_modules/next/dist/build/output/log.js ***!
@@ -2430,17 +2452,6 @@ module.exports = createProxy("/workspaces/Myn_pro/node_modules/next/dist/client/
 
 /***/ }),
 
-/***/ "(rsc)/./node_modules/next/dist/client/components/noop-head.js":
-/*!***************************************************************!*\
-  !*** ./node_modules/next/dist/client/components/noop-head.js ***!
-  \***************************************************************/
-/***/ ((module, exports) => {
-
-"use strict";
-eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));\nObject.defineProperty(exports, \"default\", ({\n    enumerable: true,\n    get: function() {\n        return NoopHead;\n    }\n}));\nfunction NoopHead() {\n    return null;\n}\nif ((typeof exports.default === \"function\" || typeof exports.default === \"object\" && exports.default !== null) && typeof exports.default.__esModule === \"undefined\") {\n    Object.defineProperty(exports.default, \"__esModule\", {\n        value: true\n    });\n    Object.assign(exports.default, exports);\n    module.exports = exports.default;\n} //# sourceMappingURL=noop-head.js.map\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2NsaWVudC9jb21wb25lbnRzL25vb3AtaGVhZC5qcyIsIm1hcHBpbmdzIjoiOzs7OzJDQUFBOzs7ZUFBd0JBOzs7QUFBVCxTQUFTQTtJQUN0QixPQUFPO0FBQ1QiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9teW5fcHJvLy4uLy4uL3NyYy9jbGllbnQvY29tcG9uZW50cy9ub29wLWhlYWQudHN4Pzc0ZjAiXSwibmFtZXMiOlsiTm9vcEhlYWQiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next/dist/client/components/noop-head.js\n");
-
-/***/ }),
-
 /***/ "(rsc)/./node_modules/next/dist/client/components/not-found-boundary.js":
 /*!************************************************************************!*\
   !*** ./node_modules/next/dist/client/components/not-found-boundary.js ***!
@@ -2501,21 +2512,6 @@ eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));
 
 "use strict";
 eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));\n0 && (0);\nfunction _export(target, all) {\n    for(var name in all)Object.defineProperty(target, name, {\n        enumerable: true,\n        get: all[name]\n    });\n}\n_export(exports, {\n    StaticGenBailoutError: function() {\n        return StaticGenBailoutError;\n    },\n    isStaticGenBailoutError: function() {\n        return isStaticGenBailoutError;\n    }\n});\nconst NEXT_STATIC_GEN_BAILOUT = \"NEXT_STATIC_GEN_BAILOUT\";\nclass StaticGenBailoutError extends Error {\n    constructor(...args){\n        super(...args);\n        this.code = NEXT_STATIC_GEN_BAILOUT;\n    }\n}\nfunction isStaticGenBailoutError(error) {\n    if (typeof error !== \"object\" || error === null || !(\"code\" in error)) {\n        return false;\n    }\n    return error.code === NEXT_STATIC_GEN_BAILOUT;\n}\nif ((typeof exports.default === \"function\" || typeof exports.default === \"object\" && exports.default !== null) && typeof exports.default.__esModule === \"undefined\") {\n    Object.defineProperty(exports.default, \"__esModule\", {\n        value: true\n    });\n    Object.assign(exports.default, exports);\n    module.exports = exports.default;\n} //# sourceMappingURL=static-generation-bailout.js.map\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2NsaWVudC9jb21wb25lbnRzL3N0YXRpYy1nZW5lcmF0aW9uLWJhaWxvdXQuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7O0lBRWFBLHVCQUFxQjtlQUFyQkE7O0lBSUdDLHlCQUF1QjtlQUF2QkE7OztBQU5oQixNQUFNQywwQkFBMEI7QUFFekIsTUFBTUYsOEJBQThCRzs7O2FBQ3pCQyxJQUFBQSxHQUFPRjs7QUFDekI7QUFFTyxTQUFTRCx3QkFDZEksS0FBYztJQUVkLElBQUksT0FBT0EsVUFBVSxZQUFZQSxVQUFVLFFBQVEsQ0FBRSxXQUFVQSxLQUFBQSxHQUFRO1FBQ3JFLE9BQU87SUFDVDtJQUVBLE9BQU9BLE1BQU1ELElBQUksS0FBS0Y7QUFDeEIiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9teW5fcHJvLy4uLy4uL3NyYy9jbGllbnQvY29tcG9uZW50cy9zdGF0aWMtZ2VuZXJhdGlvbi1iYWlsb3V0LnRzP2MxZDMiXSwibmFtZXMiOlsiU3RhdGljR2VuQmFpbG91dEVycm9yIiwiaXNTdGF0aWNHZW5CYWlsb3V0RXJyb3IiLCJORVhUX1NUQVRJQ19HRU5fQkFJTE9VVCIsIkVycm9yIiwiY29kZSIsImVycm9yIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next/dist/client/components/static-generation-bailout.js\n");
-
-/***/ }),
-
-/***/ "(rsc)/./node_modules/next/dist/client/link.js":
-/*!***********************************************!*\
-  !*** ./node_modules/next/dist/client/link.js ***!
-  \***********************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-/* __next_internal_client_entry_do_not_use__  cjs */ 
-const { createProxy } = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-module.exports = createProxy("/workspaces/Myn_pro/node_modules/next/dist/client/link.js");
- //# sourceMappingURL=link.js.map
-
 
 /***/ }),
 
